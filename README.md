@@ -70,7 +70,7 @@ We implemented and compared different models to forecast Walmart’s sales:
    ```
 2. **Install Dependencies:**
    ```bash
-   pip install pandas numpy scikit-learn matplotlib seaborn
+   pip install -r requirements.txt
    ```
 3. **Run the Jupyter Notebook:**
    - Open `Data_Visualisation_Term_Project.ipynb`
