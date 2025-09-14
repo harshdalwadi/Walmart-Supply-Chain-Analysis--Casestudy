@@ -19,7 +19,7 @@ The dataset contains Walmart’s sales records, including:
 
 ### 📂 Data Files
 - `walmart_original.csv` - Raw dataset with all available data.
-- `walmart_preprocessed.csv` - Cleaned and transformed dataset.
+- `walmart.csv` - Cleaned and transformed dataset.
 
 ## 🔍 Data Analysis & Insights
 ### 1️⃣ Data Cleaning & Preparation
